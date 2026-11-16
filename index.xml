@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Patriko tinklaraštis</title>
+    <link>https://svpatreek66.github.io/</link>
+    <description>Recent content on Patriko tinklaraštis</description>
+    <generator>Hugo</generator>
+    <language>lt</language>
+    <lastBuildDate>Mon, 16 Nov 2026 20:48:18 +0200</lastBuildDate>
+    <atom:link href="https://svpatreek66.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pirmas Irasas</title>
+      <link>https://svpatreek66.github.io/posts/pirmas-irasas/</link>
+      <pubDate>Mon, 16 Nov 2026 20:48:18 +0200</pubDate>
+      <guid>https://svpatreek66.github.io/posts/pirmas-irasas/</guid>
+      <description>&lt;p&gt;Šį tinklalapį sukūriau atlikdamas „Hugo“ ir „Git“ laboratorinį darbą.
+Tai pirmas mano tinklaraščio įrašas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
